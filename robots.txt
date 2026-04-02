@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lasvegasbankruptcymill.com/sitemap.xml
