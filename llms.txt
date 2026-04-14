@@ -5,11 +5,12 @@
 lasvegasbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Las Vegas Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://lasvegasbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Las Vegas: Red Flags and What to Watch For: https://lasvegasbankruptcymill.com/chapter-13-las-vegas.html
 - Chapter 7 Bankruptcy in Las Vegas: Costs, Timeline and What to Know: https://lasvegasbankruptcymill.com/chapter-7-las-vegas.html
 - How to Check Your Las Vegas Bankruptcy Attorney's Track Record: https://lasvegasbankruptcymill.com/how-to-check.html
+- Las Vegas Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://lasvegasbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Las Vegas: https://lasvegasbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://lasvegasbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
